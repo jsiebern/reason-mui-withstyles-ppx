@@ -1,3 +1,10 @@
+---------------------
+### THIS REPO HAS BEEN MOVED TO https://github.com/jsiebern/bs-material-ui/public/bs-material-ui-ppx
+---------------------
+
+
+
+
 # Reason Mui PPX Generator
 
 This library creates a code extension for conveniently using the `withStyles` functionality of MaterialUi in a typesafe way.
